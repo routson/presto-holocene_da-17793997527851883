@@ -1,0 +1,136 @@
+{
+  "groups": [
+    {
+      "groupId": 0,
+      "records": [
+        {
+          "tsid": "lcR9GUNnN7QDxqyAAkA",
+          "dataSetName": "Dadiwan2007.Tang.2007",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcRFDHTDeccDSC17dlh",
+          "dataSetName": "Dadiwan2007.Tang.2007",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcRAY0y3kWFY6b7GVdF",
+          "dataSetName": "Dadiwan2007.Tang.2007",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcReSBj9wVEGeX4fFaO",
+          "dataSetName": "Dadiwan2007.Tang.2007",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcRB5jUxFEQpwJ1TiQC",
+          "dataSetName": "Dadiwan2007.Tang.2007",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcR3QNGWD0Lp1Iq0vvK",
+          "dataSetName": "Dadiwan2007.Tang.2007",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRlmF9pR61J4DZUDmS",
+          "dataSetName": "Dadiwan2007.Tang.2007",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcRztCHKiNtVyrnZbI4",
+          "dataSetName": "Dadiwan2007.Tang.2007",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcRcvFMOre7cBB233d6",
+          "dataSetName": "Dadiwan2008.Sun.2008",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcRZyK0t2oPp7c9w7sA",
+          "dataSetName": "Dadiwan2008.Sun.2008",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcRBMX1r4uFieSWxHgF",
+          "dataSetName": "Dadiwan2008.Sun.2008",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcRLq72lXx8s2BnxxIm",
+          "dataSetName": "Dadiwan2008.Sun.2008",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcRshEfpcPdXlsXomoG",
+          "dataSetName": "Dadiwan2008.Sun.2008",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRhXE4D3Pa3jAK2c2y",
+          "dataSetName": "Dadiwan2008.Sun.2008",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcR4GsPDl95ojMzf5lW",
+          "dataSetName": "Dadiwan2008.Sun.2008",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcRM4H2Ce46rJKjPIv2",
+          "dataSetName": "Dadiwan2008.Sun.2008",
+          "decision": "remove"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 1,
+      "records": [
+        {
+          "tsid": "lcRen1zirGpyNXe7xBn",
+          "dataSetName": "Pingwang.Innes.2014",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcRSYzZ5RWKgysUJkYF",
+          "dataSetName": "Pingwang.Innes.2014",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcROVgQkjZOALKFmx8O",
+          "dataSetName": "Pingwang.Innes.2014",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcRxr5iayahjBnaOADl",
+          "dataSetName": "Pingwang.Innes.2014",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcRsFUZd8O5ng6yAoxC",
+          "dataSetName": "Pingwang.Innes.2014",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcRsLfe4fZdMmblYHOP",
+          "dataSetName": "Pingwang.Innes.2014",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRNBO1ms08XBYGso0r",
+          "dataSetName": "Pingwang.Innes.2014",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcRrUs8WqritSwIQkAf",
+          "dataSetName": "Pingwang.Innes.2014",
+          "decision": "remove"
+        }
+      ],
+      "notes": null
+    }
+  ]
+}
